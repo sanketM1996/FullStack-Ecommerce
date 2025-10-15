@@ -69,3 +69,5 @@ Category-based product filtering
 📦 Order & Cart (Future Scope)
 
 Cart management
+__________________
+to run add .evn file add stripe publish key for frontend and secret key for backend
